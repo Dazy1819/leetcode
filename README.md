@@ -1,2 +1,2 @@
-# leethub-2.0
+# leetcode
 leetcode and gfg code 
